@@ -1,0 +1,7 @@
+If you find error in http Headers issue on https://securityheaders.com/ then you can fix easily.
+
+Please follow below steps.
+
+1. Install this plugin : https://wordpress.org/plugins/redirection/
+2. Go to Tools -> Redirection and add headers (Please check attatched image).
+   
